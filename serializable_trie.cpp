@@ -1,4 +1,4 @@
-///author : Vaibhav Garg
+///author : Shreyansh Singh
 #include<bits/stdc++.h>
 using namespace std;
 
